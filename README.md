@@ -3,6 +3,8 @@ IndoFarm
 
 Template Web Design for Agriculture tech built with Semantic-UI (http://semantic-ui.com)
 
+![Screenshot](https://raw.githubusercontent.com/wahyuogel/indofarm/master/screenshot-indofarm.png)
+
 ```
 Copyright 2018 Wahyu Aditya Nugraha
 
